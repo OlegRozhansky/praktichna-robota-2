@@ -6,3 +6,4 @@ def lambda_handler(event, context):
     rnd = random.randint(1, 6)
     return rnd
     
+
