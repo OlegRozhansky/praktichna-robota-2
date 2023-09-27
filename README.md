@@ -1,1 +1,0 @@
-# praktichna-robota-2
